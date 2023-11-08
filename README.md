@@ -3,7 +3,7 @@
 # Solution
 This document is intended to introduce the technical solutions and implementation modes of MettaxIOT. By reading this document, users can quickly grasp the capabilities and services offered by MettaxIOT. Through the document, users can swiftly deploy MettaxIOT's gateway, API, and streaming services. Users will be able to implement device data reporting, audio and video data streaming push and pull, as well as file, image, and video uploads.
 # 1、Intended Audience
-本文档旨在供软件开发人员、测试工程师和 FAE 阅读。
+This document is intended for software developers, testing engineers, and FAEs to read.
 
 # 2、Terms
 
@@ -36,5 +36,5 @@ This document is intended to introduce the technical solutions and implementatio
 
 # 3、Architecture
 
-
+![image](https://github.com/mettaxhelp/MettaXIoT/blob/main/Architecture.png?raw=true)
 
